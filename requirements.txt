@@ -1,0 +1,16 @@
+torch
+transformers
+tqdm
+numpy
+seaborn
+matplotlib
+pandas
+requests
+nltk
+scikit-learn
+faiss-cpu
+tensorflow
+datasets
+accelerate
+simcse
+mauve-text

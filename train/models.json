@@ -1,0 +1,11 @@
+{
+  "wikitext":
+  {
+    "large": {
+      "50K": {
+        "1.0": "2022110318_wikitext_train50K_gpt2-large_mix1.0_pl50_bl0_batch64_lr5e-05_epoch5_reducemean_seed42",
+        "0.1": "2022110901_wikitext_train50K_gpt2-large_mix0.1_pl50_bl0_batch64_lr5e-05_epoch5_reducemean_seed42"
+      }
+    }
+  }
+}
