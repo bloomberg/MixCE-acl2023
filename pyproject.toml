@@ -1,0 +1,4 @@
+[tool.isort]
+profile = "black"
+known_tf = "tensorflow"
+sections = "FUTURE,STDLIB,THIRDPARTY,TF,FIRSTPARTY,LOCALFOLDER"
