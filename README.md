@@ -2,17 +2,18 @@
 
 This repository contains the code and data for the following paper:
 
-[MixCE: Training Autoregressive Language Models by Mixing the Forward and Reverse Cross-Entropies]()
+[MixCE: Training Autoregressive Language Models by Mixing the Forward and Reverse Cross-Entropies](https://arxiv.org/abs/2305.16958)
 
 ```
 @inproceedings{zhang2023mixce,
   title={MixCE: Training Autoregressive Language Models by Mixing Forward and Reverse Cross-Entropies},
-  author={},
+  author={Zhang, Shiyue and Wu, Shijie and İrsoy, Ozan and Lu, Steven and Bansal, Mohit and Dredze, Mark and Rosenberg, David},
+  booktitle={Proceedings of the 61th Annual Meeting of the Association for Computational Linguistics},
   year={2023}
 }
 ```
 
-**Author:** Shiyue Zhang
+**code author:** Shiyue Zhang
 
 ## Requirements
 
